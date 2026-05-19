@@ -15,16 +15,6 @@ PyTorch implementation of the paper:
 
 ## Implementation
 
-```text
---experiments
-  |--files of experiments on 7scenes datasets
-    |--image_backbone.py
-    |--point_backbone.py
-    |--utils.py
-    |--image_utils.py
-    |--keypoints_utils.py
-    |--config.py
-```
 
 ## Citation
 
