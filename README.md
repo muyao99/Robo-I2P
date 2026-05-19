@@ -1,17 +1,17 @@
-# LDF-I2P: Learning Discriminative Cross-Modality Features for Image-to-Point Cloud Registration
+# Robust 2D-3D Outliers Rejection via High-order Interaction on Scale-Aligned Compatibility Graph
 
 PyTorch implementation of the paper:
 
-[LDF-I2P: Learning Discriminative Cross-Modality Features for Image-to-Point Cloud Registration](https://ieeexplore.ieee.org/abstract/document/11134139).
+[Robust 2D-3D Outliers Rejection via High-order Interaction on Scale-Aligned Compatibility Graph].
 
-[Muyao Peng](https://scholar.google.com/citations?hl=zh-CN&user=7Q_9uNEAAAAJ&view_op=list_works&sortby=pubdate), [Pei An](https://scholar.google.com/citations?hl=zh-CN&user=FGtqwMMAAAAJ&view_op=list_works&sortby=pubdate), [You Yang](https://scholar.google.com/citations?hl=zh-CN&user=r9o-LVgAAAAJ&view_op=list_works&sortby=pubdate)(Corresponding Author), [Qiong Liu](https://scholar.google.com/citations?user=1mQpXIcAAAAJ&hl=zh-CN)
+[Muyao Peng](https://scholar.google.com/citations?hl=zh-CN&user=7Q_9uNEAAAAJ&view_op=list_works&sortby=pubdate), [Pei An](https://scholar.google.com/citations?hl=zh-CN&user=FGtqwMMAAAAJ&view_op=list_works&sortby=pubdate), Shun Zou, [You Yang](https://scholar.google.com/citations?hl=zh-CN&user=r9o-LVgAAAAJ&view_op=list_works&sortby=pubdate)(Corresponding Author), [Qiong Liu](https://scholar.google.com/citations?user=1mQpXIcAAAAJ&hl=zh-CN)
 
 ## Introduction
 
 
 ## News
 
-2025.08.01: This work is accepted by IEEE T-IM 2025.
+2026.05.25: Some datasets used in this work will be released.
 
 ## Implementation
 
