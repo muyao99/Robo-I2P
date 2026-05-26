@@ -15,6 +15,9 @@ PyTorch implementation of the paper:
 
 ## Implementation
 
+# Data Preperation
+ Use the [link](https://pan.baidu.com/s/16KL4zr16d7hMvqVY_mUBFw) to download the data we used in this paper. The password is 2kfe.
+
 
 
 
