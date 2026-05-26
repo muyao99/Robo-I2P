@@ -2,9 +2,9 @@
 
 PyTorch implementation of the paper:
 
-[Robust 2D-3D Outliers Rejection via High-order Interaction on Scale-Aligned Compatibility Graph].
+[Robust 2D-3D Outliers Rejection via High-order Interaction on Scale-Aligned Compatibility Graph]().
 
-[Muyao Peng](https://scholar.google.com/citations?hl=zh-CN&user=7Q_9uNEAAAAJ&view_op=list_works&sortby=pubdate), [Pei An](https://scholar.google.com/citations?hl=zh-CN&user=FGtqwMMAAAAJ&view_op=list_works&sortby=pubdate), Shun Zou, [You Yang](https://scholar.google.com/citations?hl=zh-CN&user=r9o-LVgAAAAJ&view_op=list_works&sortby=pubdate)(Corresponding Author), [Qiong Liu](https://scholar.google.com/citations?user=1mQpXIcAAAAJ&hl=zh-CN)
+[Muyao Peng](https://scholar.google.com/citations?hl=zh-CN&user=7Q_9uNEAAAAJ&view_op=list_works&sortby=pubdate), [Pei An](https://scholar.google.com/citations?hl=zh-CN&user=FGtqwMMAAAAJ&view_op=list_works&sortby=pubdate), Shun Zou, [You Yang](https://scholar.google.com/citations?hl=zh-CN&user=r9o-LVgAAAAJ&view_op=list_works&sortby=pubdate) (Corresponding Author), [Qiong Liu](https://scholar.google.com/citations?user=1mQpXIcAAAAJ&hl=zh-CN)
 
 ## Introduction
 
@@ -16,7 +16,7 @@ PyTorch implementation of the paper:
 ## Implementation
 
 
-## Citation
+% ## Citation
 
 
 ## Acknowledgements
