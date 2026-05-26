@@ -16,7 +16,6 @@ PyTorch implementation of the paper:
 ## Implementation
 
 
-% ## Citation
 
 
 ## Acknowledgements
